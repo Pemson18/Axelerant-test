@@ -1,9 +1,0 @@
-axetest.default:
-  css:
-    theme:
-      css/style.css: {}
-  js:
-    js/ga-script.js: {}
-  dependencies:
-    - core/jquery
-    - core/drupal

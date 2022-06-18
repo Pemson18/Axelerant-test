@@ -1,7 +1,0 @@
-ga.config:
-  path: "/admin/config/axetest/adminsettings"
-  defaults:
-    _form: '\Drupal\axetest\Form\GaConfigForm'
-    _title: "Set GA tags"
-  requirements:
-    _permission: "administer site configuration"
