@@ -1,0 +1,5 @@
+name: Axelerant test GA
+description: Test module for Axelerant Google Analytics custom tag
+type: module
+package: custom
+core_version_requirement: ^9 || 10

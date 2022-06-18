@@ -1,5 +1,0 @@
-name: Axelerant test module
-description: Test module for Axelerant 
-type: module
-package: custom
-core_version_requirement: ^9 || 10
